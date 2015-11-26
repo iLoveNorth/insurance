@@ -1,0 +1,16 @@
+c:\users\38687\documents\visual studio 2015\Projects\gi1\gi1\bin\Debug\gi1.exe.config
+c:\users\38687\documents\visual studio 2015\Projects\gi1\gi1\bin\Debug\gi1.exe
+c:\users\38687\documents\visual studio 2015\Projects\gi1\gi1\bin\Debug\gi1.pdb
+c:\users\38687\documents\visual studio 2015\Projects\gi1\gi1\obj\Debug\gi1.csprojResolveAssemblyReference.cache
+c:\users\38687\documents\visual studio 2015\Projects\gi1\gi1\obj\Debug\gi1.Form1.resources
+c:\users\38687\documents\visual studio 2015\Projects\gi1\gi1\obj\Debug\gi1.Properties.Resources.resources
+c:\users\38687\documents\visual studio 2015\Projects\gi1\gi1\obj\Debug\gi1.csproj.GenerateResource.Cache
+c:\users\38687\documents\visual studio 2015\Projects\gi1\gi1\obj\Debug\gi1.exe
+c:\users\38687\documents\visual studio 2015\Projects\gi1\gi1\obj\Debug\gi1.pdb
+c:\users\38687\documents\visual studio 2015\Projects\gi1\gi1\obj\Debug\gi1.Form2.resources
+c:\users\38687\documents\visual studio 2015\Projects\gi1\gi1\obj\Debug\gi1.Form3.resources
+c:\users\38687\documents\visual studio 2015\Projects\gi1\gi1\obj\Debug\gi1.Form4.resources
+C:\Users\38687\documents\visual studio 2015\Projects\gi1\gi1\obj\Debug\gi1.Form5.resources
+C:\Users\38687\Documents\Visual Studio 2015\Projects\gi1\insurance\gi1\gi1\bin\Debug\gi1.exe.config
+C:\Users\38687\Documents\Visual Studio 2015\Projects\gi1\insurance\gi1\gi1\obj\Debug\gi1.exe
+C:\Users\38687\Documents\Visual Studio 2015\Projects\gi1\insurance\gi1\gi1\obj\Debug\gi1.pdb
